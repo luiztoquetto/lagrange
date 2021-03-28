@@ -1,4 +1,4 @@
-//	Lagrange
+//Lagrange 
 
 #include<stdio.h>
 #include<stdlib.h>
