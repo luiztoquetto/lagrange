@@ -1,2 +1,2 @@
 # Lagrange
-Implementation of the lagrange method in C.
+Implementation of the Lagrange method in C.
